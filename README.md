@@ -5,9 +5,10 @@
 
 ### Now
 - 🔭 Research Intern at the [Radio Astronomy Institute, Pontifical Catholic University of Peru](https://www.pucp.edu.pe) focusing on computational aeronomy.
-- 👨‍💻 Developing a novel algorithm to reconstruct plasma frequency profiles.
+- Now trying to learn ML and GPU engineering
 
 ### Recent
+- ⚛️ Developed a novel algorithm to reconstruct plasma frequency profiles
 - 📄 Completed M.Sc. in Theoretical Physics at the [Bariloche Atomic Center](https://www.ib.edu.ar).
 - 📑 Published research on interatomic repulsion effects in Majorana zero modes in *Physical Review B* [(Link)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.075416).
 - 🧑‍💻 Shipped features for the Fromsolvers project as a Software Engineer Intern, working with Docker, Django, and Pydantic.
