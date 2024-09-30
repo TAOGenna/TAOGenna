@@ -1,6 +1,5 @@
 ### Hey there 👋, I'm Kenyi.
 [![Linkedin Badge](https://img.shields.io/badge/-RenzoTakagui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renzo-kenyi-takagui-perez-b0a658139/)](https://www.linkedin.com/in/renzo-kenyi-takagui-perez-b0a658139/) 
-[![Github Badge](https://img.shields.io/badge/-TAOGenna-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TAOGenna)](https://github.com/TAOGenna) 
 [![Gmail Badge](https://img.shields.io/badge/-renzo.takagui@ib.edu.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzo.takagui@ib.edu.ar)](mailto:renzo.takagui@ib.edu.ar)
 [![Website Badge](https://img.shields.io/badge/-Personal%20Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://taogenna.github.io/)](https://taogenna.github.io/)
 
