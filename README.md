@@ -9,9 +9,9 @@
 
 ### Recent
 - ⚛️ Developed a novel algorithm to reconstruct plasma frequency profiles
+- 🧑‍💻 Shipped features for the Fromsolvers project as a Software Engineer Intern, working with Docker, Django, and Pydantic.
 - 📄 Completed M.Sc. in Theoretical Physics at the [Bariloche Atomic Center](https://www.ib.edu.ar).
 - 📑 Published research on interatomic repulsion effects in Majorana zero modes in *Physical Review B* [(Link)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.075416).
-- 🧑‍💻 Shipped features for the Fromsolvers project as a Software Engineer Intern, working with Docker, Django, and Pydantic.
 - ⚛️ Investigated quantum chromatic numbers in graph theory as a Research Assistant at the [University of São Paulo](https://www5.usp.br).
 - 🏆 Top 25 in the ICPC South America Finals (2020, 2019).
 - 🥇 Top 1.7% in the IEEExtreme programming competition (2021).
