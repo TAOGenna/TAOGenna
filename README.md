@@ -6,7 +6,7 @@
 
 ### Now
 - 🔭 Research Intern at the [Radio Astronomy Institute, Pontifical Catholic University of Peru](https://www.pucp.edu.pe) focusing on computational aeronomy.
-- Now trying to learn ML and GPU engineering
+- Now trying to learn ML and GPU engineering | maybe maybe going back to Physics
 
 ### Recent
 - ⚛️ Developed a novel algorithm to reconstruct plasma frequency profiles [(Link)](https://github.com/TAOGenna/inversion-algorithm-plasma-frequency-profile/blob/main/Documentation.pdf).
