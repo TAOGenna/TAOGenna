@@ -5,8 +5,7 @@
 
 
 ### Now
-- 🔭 Research Intern at the [Radio Astronomy Institute, Pontifical Catholic University of Peru](https://www.pucp.edu.pe) focusing on computational aeronomy.
-- Now trying to learn ML and GPU engineering | maybe maybe going back to Physics
+- Learning ML
 
 ### Recent
 - ⚛️ Developed [a novel algorithm](https://github.com/TAOGenna/inversion-algorithm-plasma-frequency-profile) to reconstruct plasma frequency profiles during my internship at the Radio Science research group at [PUCP](https://www.pucp.edu.pe/en/). I also did a [machine learning program](https://github.com/TAOGenna/ionospheric-echo-detection-with-convolutional-neural-networks) to obtain o-mode EM wave echo traces.
